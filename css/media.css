@@ -1,0 +1,335 @@
+
+/* // Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+/* // Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+/* // Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* Header part start */
+.navbar-light .navbar-toggler i {
+	color: white;
+	border: none;
+	font-size: 20px;	
+}
+.navbar-toggler {
+	border: none;
+}
+.navbar-nav {
+	text-align: center;
+	background: #575454;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+/* header part end */
+/* banner part start */
+.banner-overly {
+	padding-top: 160px;
+	padding-bottom: 50px;
+}
+.banner-text h4 {
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+.banner-text h3 {
+	font-size: 37px;
+	padding-bottom: 10px;
+}
+.banner-text p {
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+.banner-text a {
+	padding: 8px 22px;
+}
+/* banner part end */
+/* service part start */
+#service {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+/* service part end */
+/* ida part start */
+#idea {
+	padding-top: 20px;
+}
+.idea-text p {
+	font-size: 16px;
+	padding-bottom: 28px;
+	padding-right: 200px;
+}
+.purchase-btn a {
+	padding-top: 15px;
+	padding-right: 22px;
+	padding-bottom: 12px;
+	padding-left: 22px;
+	font-size: 11px;
+	margin-left: 174px;
+}
+/* ida part end */
+/* project part start */
+#project {
+	padding-top: 25px;
+	padding-bottom: 30px;
+}
+.project-btnn a {
+	padding: 11px 29px 10px 29px;
+	font-size: 12px;
+}
+.project-btn {
+	padding-bottom: 26px;
+}
+.project-btn button {
+	padding: 4px 10px;
+	border-radius: 4px;
+	font-size: 14px;
+}
+.project-item-text p {
+	font-size: 13px;
+}
+/* project part end */
+/* video part start */
+.video-overly {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.video-content i {
+	font-size: 50px;
+}
+/* video part end */
+/* excellent part start */
+.exc-text {
+	padding-top: 38px;
+}
+.exc-text p {
+	font-size: 15px;
+	padding-top: 6px;
+	padding-bottom: 0px;
+}
+.features {
+	padding-left: 0px;
+}
+.features i {
+	margin-right: 9px;
+	font-size: 16px;
+}
+.counter-item {
+	margin-bottom: 30px;
+}
+/* excellent part end */
+/* blog part start */
+.blog-text h3 {
+	padding-top: 27px;
+}
+/* blog part end */
+/* project counter part start */
+/* project counter part end */
+/* clint part start */
+.client-logo {
+	padding-left: 10px;
+}
+.client-overly {
+	margin-top: 27px;
+}
+/* clint part end */
+ }
+/* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* // Extra small devices  */
+@media (max-width: 575.98px) {
+/* Header part start */
+.navbar-light .navbar-toggler i {
+	color: white;
+	border: none;
+	font-size: 20px;	
+}
+.navbar-toggler {
+	border: none;
+}
+.navbar-nav {
+	text-align: center;
+	background: #575454;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+/* header part end */
+/* banner part start */
+.banner-overly {
+	padding-top: 160px;
+	padding-bottom: 50px;
+}
+.banner-text h4 {
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+.banner-text h3 {
+	font-size: 37px;
+	padding-bottom: 10px;
+}
+.banner-text p {
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+.banner-text a {
+	padding: 8px 22px;
+}
+/* banner part end */
+/* sercice part start */
+#service {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+/* sercice part end */
+/* ida part start */
+#idea {
+	padding-top: 24px;
+}
+.idea-text h3 {
+	font-size: 20px;
+}
+.idea-text p {
+	font-size: 12px;
+	padding-bottom: 33px;
+	padding-right: 453px;
+}
+/* ida part end */
+/* perches part start */
+.purchase-text h3 {
+	font-size: 19px;
+}
+.purchase-text p {
+	font-size: 14px;
+}
+.purchase-text{
+	text-align: center;
+}
+.purchase-btn{
+	padding-right: none;
+}
+.purchase-btn a {
+	padding-top: 8px;
+	padding-right: 20px;
+	padding-bottom: 8px;
+	padding-left: 17px;
+	font-size: 11px;
+}
+.purchase-btn {
+	text-align: center;
+}
+/* perches part end */
+/* video part start */
+.video-overly {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.video-content i {
+	font-size: 50px;
+}
+/* video part end */
+/* excellent part start */
+.exc-text {
+	padding-top: 40px;
+}
+.exc-text h3 {
+	font-size: 26px;
+}
+.exc-text p {
+	font-size: 14px;
+	padding-top: 4px;
+	padding-bottom: 7px;
+}
+.features {
+	padding-left: 0px;
+}
+.features i {
+	margin-right: 6px;
+	font-size: 14px;
+}
+/* excellent part end */
+/* project counter part start */
+#project {
+	padding-top: 25px;
+	padding-bottom: 18px;
+}
+.project-text h3 {
+	font-size: 25px;
+}
+.project-text p {
+	font-size: 11px;
+	padding-bottom: 0px;
+}
+
+.project-btn button {
+	padding: 1px 5px;
+	border-radius: 5px;
+	margin-right: 5px;
+	font-size: 12px;
+}
+.project-btn {
+	padding-bottom: 18px;
+}
+.project-btnn a {
+	padding: 9px 21px 7px 21px;
+	font-size: 11px;
+}
+.project-btnn {
+	padding-top: 10px;
+}
+
+/* project counter part end */
+/* blog part start  */
+.blog-text h3 {
+	padding-top: 21px;
+	font-size: 28px;
+}
+.blog-text p {
+	padding-top: 0px;
+	font-size: 14px;
+	padding-bottom: 14px;
+}
+/* blog part end */
+/* project counter part start */
+.counter-item {
+	margin-bottom: 30px;
+}
+/* project counter part end */
+/* clint part start */
+.client-overly {
+	padding-top: 90px;
+	padding-bottom: 90px;
+	margin-top: 15px;
+}
+.client-logo {
+	padding-left: 40px;
+}
+/* clint part end */
+/* footer part start */
+#footer {
+	padding-top: 13px;
+	padding-bottom: 23px;
+}
+.footer-item p {
+	font-size: 17px;
+	padding-top: 19px;
+	padding-bottom: 1px;
+}
+.recent-post h3 {
+	font-size: 18px;
+	padding-bottom: 2px;
+}
+.recent-post p {
+	padding-bottom: 2px;
+}
+.twitter h3 {
+	font-size: 18px;
+	padding-bottom: 2px;
+}
+.Dribbble h3 {
+	font-size: 18px;
+}
+/* footer part end */
+
+
+
+}
